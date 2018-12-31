@@ -7,7 +7,7 @@ sudo apt-get install curl
 sudo apt-get install zsh
 ```
 
-#Clone zsh repository
+## Clone zsh repository
 ```
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
